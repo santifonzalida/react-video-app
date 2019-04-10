@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## React video browser web aplication 
+
+Using Axios to do the HTTP requests to Youtube API
+
 ## Available Scripts
 
 In the project directory, you can run:
